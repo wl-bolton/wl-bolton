@@ -6,9 +6,10 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-William%20Bolton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-bolton-3b577179/)](https://www.linkedin.com/in/william-bolton-3b577179/)
+[![Medium Badge](https://img.shields.io/badge/William%20Bolton-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@boltonwill)](https://medium.com/@boltonwill)
+[![Gmail Badge](https://img.shields.io/badge/-william.z.bolton@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:william.z.bolton@gmail.com)](mailto:william.z.bolton@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +26,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wl-bolton&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wl-bolton&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=wl-bolton%2Fwl-bolton&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=wl-bolton%2Fwl-bolton)
